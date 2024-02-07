@@ -1,2 +1,2 @@
-# User_Authentification
-Password authentifcication with Python with FastAPI 
+# Django_101
+Exploring the world of Django. 
